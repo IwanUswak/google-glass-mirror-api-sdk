@@ -1,4 +1,4 @@
-google-glass-mirror-api-php-sdk
+google-glass-mirror-api-sdk
 ===============================
 
 sdk for google glass mirror api
